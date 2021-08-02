@@ -1,5 +1,3 @@
-![Strafbefehl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strafbefehl&show_icons=true&theme=radical)
-
 <h1 align="center">Hi 👋, I'm Strafbefehl</h1>
 <h3 align="center">Software Engineer from Germany</h3>
 
@@ -10,12 +8,17 @@
 - 📫 How to reach me **Discord - Strafbefehl#0001**
 
 
-<h3 align="center">Projects I work(ed) on:</h3>
+<h3 align="left">Projects I work(ed) on:</h3>
 - ✔️ ClientBefehl - A Minecraft Java Client
-- ✔️ [Kresu24Radio](https://laut.fm/kresu24radio)
-- ✔️ CookiesMC - Minecraft Java Server
-- ✔️ RyMusic - Discord Music Bot (Verified)
+
+- ✔️ ClientBefehlEU - Minecraft Java Server
+
+- ✔️ ![Kresu24Radio](https://laut.fm/kresu24radio)
+
+- ✔️ ![RyMusic](https://discord.com/oauth2/authorize?client_id=794898171679473685&scope=bot&permissions=8) - Discord Music Bot (Verified)
+
 - ✔️ RyPicture - Software for pictures
+
 - ❌ RyTickets - Discord Ticket Bot
   
 
@@ -30,4 +33,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/strafbefehl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="strafbefehl" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strafbefehl&show_icons=true&locale=en" alt="strafbefehl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Strafbefehl&show_icons=true&theme=radical" alt="strafbefehl" /></p>
