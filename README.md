@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Strafbefehl</h1>
 <h3 align="center">Software Engineer from Germany</h3>
 
+
+<h3 align="left">About me:</h3>
+
 - 🔭 I’m currently working on **RyMusic**
 
 - 🌱 I’m currently learning **Vue, Angular**
-
-- 📫 How to reach me **Discord - Strafbefehl#0001**
 
 
 <h3 align="left">Projects I work(ed) on:</h3>
@@ -13,9 +14,9 @@
 
 - ✔️ ClientBefehlEU - Minecraft Java Server
 
-- ✔️ ![Kresu24Radio](https://laut.fm/kresu24radio)
+- ✔️ [Kresu24Radio](https://laut.fm/kresu24radio) - Radio
 
-- ✔️ ![RyMusic](https://discord.com/oauth2/authorize?client_id=794898171679473685&scope=bot&permissions=8) - Discord Music Bot (Verified)
+- ✔️ [RyMusic](https://discord.com/oauth2/authorize?client_id=794898171679473685&scope=bot&permissions=8) - Discord Music Bot (Verified)
 
 - ✔️ RyPicture - Software for pictures
 
