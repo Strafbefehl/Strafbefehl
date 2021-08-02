@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Strafbefehl</h1>
 <h3 align="center">Software Engineer from Germany</h3>
 
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Strafbefehl&show_icons=true&theme=radical" alt="strafbefehl" /></p>
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on **RyMusic**
@@ -35,4 +35,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/strafbefehl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="strafbefehl" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Strafbefehl&show_icons=true&theme=radical" alt="strafbefehl" /></p>
+
