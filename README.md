@@ -11,9 +11,7 @@
 
 - ✔️ ClientBefehl - A Minecraft Java Client
 
-- ✔️ ClientBefehlEU - Minecraft Java Server
-
-- ✔️ [RyMusic](https://discord.com/oauth2/authorize?client_id=794898171679473685&scope=bot&permissions=8) - Discord Music Bot (Verified)
+- ✔️ [RyMusic](https://voidbots.net/bot/rymusic/invite) - Discord Music Bot (Verified)
 
 - ✔️ RyPicture - Software for pictures
   
